@@ -5,5 +5,5 @@
  · 🔭 · I'm currently working on <a href="https://github.com/abachrati/basalt">Basalt</a>, a Minecraft server written in Zig
  · 🌱 · I'm learning <a href="https://ziglang.org">Zig</a>
  · ⚡ · My favorite languages are Rust and ANSI C
- · 💻 · I daily drive <a href="https:://alpinelinux.org">Alpine Linux</a>
+ · 💻 · I daily drive <a href="https://alpinelinux.org">Alpine Linux</a>
 </pre>
