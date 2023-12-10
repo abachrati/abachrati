@@ -1,4 +1,4 @@
-### <div align="center">Hey 👋, I'm Aron</div>
+### <div align="center">Hey 👋, I'm Áron</div>
 
 <pre>
  · 👨‍🎓 · I am a Computer Science student
